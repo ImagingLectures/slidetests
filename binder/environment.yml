@@ -11,6 +11,7 @@ channels:
   - simpleitk
 dependencies:
   - python=3.6
+  - pip
   - numpy
   - matplotlib
   - pandas
